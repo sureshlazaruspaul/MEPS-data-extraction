@@ -1,6 +1,6 @@
 # meps_extract_stata
 ## Extract Medical Expenditure Panel Survey's Household Consolidated Data Files using Stata
-## Link: https://github.com/HHS-AHRQ/MEPS
+### Link: https://github.com/HHS-AHRQ/MEPS
 
 * This code downloads the datasets between the years 1996 and 2017 to the "C:\MEPS\DATA" directory by remotely running the Stata scripts that are published in the MEPS website. 
 

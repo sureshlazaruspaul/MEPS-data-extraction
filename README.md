@@ -12,3 +12,7 @@
 - For more details, see [https://github.com/HHS-AHRQ/MEPS](https://github.com/HHS-AHRQ/MEPS)
 
 Suggestions or corrections, let me know at sureshlazaruspaul@gmail.com.
+
+## Updated code available
+
+- go to https://github.com/sureshlazaruspaul/meps_extract_stata-v1.0.0/releases/tag/v1.0.1

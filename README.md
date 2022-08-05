@@ -13,6 +13,8 @@
 
 Suggestions or corrections, let me know at sureshlazaruspaul@gmail.com.
 
-## Updated code available
 
-- go to https://github.com/sureshlazaruspaul/meps_extract_stata-v1.0.0/releases/tag/v1.0.1
+***
+
+
+**Updated code available**, click [here](https://raw.githubusercontent.com/sureshlazaruspaul/meps_extract_stata-v1.0.0/master/MEPSdat-v1.0.1.do) 
